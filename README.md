@@ -58,4 +58,4 @@ To leverage my growing expertise in cybersecurity, including hands-on experience
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- Network Intrusion detection System NIDS
