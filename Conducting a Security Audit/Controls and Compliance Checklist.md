@@ -106,4 +106,17 @@ Based on this assessment, it is recommended to:
 - Develop a disaster recovery plan.
 - Implement separation of duties for critical operations.
 - Regularly back up data to ensure recoverability.
-  
+
+## Compliance Checklist
+
+  | YES/NO | Best Practice                                                                 | Explanation                                                                                                     |
+|--------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| NO     | Only authorized users have access to customers’ credit card information.     | Currently, all employees have access to the company’s internal data.                                           |
+| NO     | Credit card information is accepted, processed, transmitted, and stored internally in a secure environment. | Credit card information is not encrypted, and all employees currently have access to internal data, including customers’ credit card information. |
+| NO     | Implement data encryption procedures to better secure credit card transaction touchpoints and data. | The company does not currently use encryption to better ensure the confidentiality of customers’ financial information. |
+| NO     | Adopt secure password management policies.                                   | Password policies are nominal, and no password management system is currently in place.                         |
+| NO     | E.U. customers’ data is kept private/secured.                                | The company does not currently use encryption to better ensure the confidentiality of customers’ financial information. |
+| YES    | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. | There is a plan to notify E.U. customers within 72 hours of a data breach.                                      |
+| NO     | Ensure data is properly classified and inventoried.                          | Current assets have been inventoried/listed but not classified.                                                |
+| YES    | Enforce privacy policies, procedures, and processes to properly document and maintain data. | Privacy policies, procedures, and processes have been developed and enforced among IT team members and other employees, as needed. |
+
