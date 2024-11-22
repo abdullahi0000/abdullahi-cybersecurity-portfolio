@@ -88,21 +88,22 @@ Does Botium Toys currently have this control in place?
 
 | Yes/No | Control                       | Explanation                                                                 |
 |--------|-------------------------------|-----------------------------------------------------------------------------|
-| Yes    | Least Privilege               | Restrict user access to only the resources necessary for their role.        |
+| NO     | Least Privilege               | All employees currently have access to client data; therefore, in order to lower the danger of a breach, privileges must be restricted..        |
 | No     | Disaster Recovery Plan        | A plan to restore operations in the event of a disaster is not in place.    |
-| Yes    | Password Policies             | Strong password policies are enforced to secure accounts.                   |
+| NO     | Password Policies             | Due to the low password requirements for employees, a threat actor may find it easier to gain access to private information and other resources through employee work devices and the internal network.                  |
 | No     | Separation of Duties          | Critical functions are not divided among different individuals.             |
 | Yes    | Firewall                      | Firewalls are used to block unauthorized access to the network.             |
-| Yes    | Intrusion Detection System    | Monitors the network for suspicious activities or breaches.                 |
+| NO     | Intrusion Detection System    | To assist in detecting potential incursions by threat actors, the IT department need an intrusion detection system to Monitor the network for suspicious activities or breaches.                 |
 | No     | Backups                       | Regular data backups are not implemented.                                   |
 | Yes    | Antivirus Software            | Protects systems from malware and other malicious software.                 |
 | No     | Legacy System Maintenance     | Manual monitoring and maintenance for legacy systems are not conducted.     |
-| Yes    | Encryption                    | Data is encrypted to ensure confidentiality and prevent unauthorized access.|
+| NO     | Encryption                    | Since encryption is not currently in use, sensitive data would be more confidential if it were implemented.|
 | YES    | Physical Security Measures    | The stores store’s physical location, which includes Botium Toys’ main offices, storefront, and warehouse of products, has suffcient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.     |
 
 ## Recommendations
 Based on this assessment, it is recommended to:
+- implement controls such as Least Privilege, separation of duties, and encryption.
 - Develop a disaster recovery plan.
 - Implement separation of duties for critical operations.
 - Regularly back up data to ensure recoverability.
-- Enforce consistent physical security measures like locks and CCTV.
+  
