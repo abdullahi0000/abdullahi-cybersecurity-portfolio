@@ -1,7 +1,8 @@
 # Network Intrusion Detection System (NIDS)
 
 ## Project Overview
-This project involves setting up and configuring a Network Intrusion Detection System (NIDS) using **Security Onion**. The objective was to detect and monitor malicious activities in a simulated lab environment.
+
+In this project, I will set up a NIDS using **Security Onion** deployed in VMware Workstation Pro. To test it, I will perform a few attacks on a vulnerable machine, Metasploitable, using Kali Linux. Security Onion will monitor the traffic between the virtual machines and is expected to generate alerts if any intrusions occur.
 
 ## Objectives
 - Configure a secure lab environment.
