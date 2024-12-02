@@ -28,6 +28,20 @@ Security Onion requires two network interfaces for proper setup: one for managem
   - Metasploitable: `192.168.189.129` on Host only
 - VMware Workstation Pro was used to host the virtual machines.
 
+## Security Onion Console (SOC)
+![Kali Linux Screenshot](https://github.com/abdullahi0000/abdullahi-cybersecurity-portfolio/blob/main/kali-linux-2024.3-vmware-amd64-2024-12-02-16-28-18.png?raw=true)
+![Kali Linux Screenshot 2](https://github.com/abdullahi0000/abdullahi-cybersecurity-portfolio/blob/main/kali-linux-2024.3-vmware-amd64-2024-12-02-16-29-02.png?raw=true)
+
+## Testing/Attack
+1. Nmap port scanning- i've conducted nmap scan on the metasploitable vm from kali linux to generate alerts
+
+
+   ![Kali Linux Screenshot 3](https://github.com/abdullahi0000/abdullahi-cybersecurity-portfolio/blob/main/kali-linux-2024.3-vmware-amd64-2024-12-02-16-49-04.png?raw=true)
+   ![Kali Linux Screenshot 4](https://github.com/abdullahi0000/abdullahi-cybersecurity-portfolio/blob/main/kali-linux-2024.3-vmware-amd64-2024-12-02-16-54-44.png?raw=true)
+   ![Kali Linux Screenshot 5](https://github.com/abdullahi0000/abdullahi-cybersecurity-portfolio/blob/main/kali-linux-2024.3-vmware-amd64-2024-12-02-17-00-36.png?raw=true)
+
+
+
 
 
 
