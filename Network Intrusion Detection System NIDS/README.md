@@ -23,21 +23,16 @@ In this project, I will set up a NIDS using **Security Onion** deployed in VMwar
 ## Project Setup
 Security Onion requires two network interfaces for proper setup: one for management, configured on NAT with an IP address to access the web interface, and another for sniffing, configured on Host-Only without an IP address. To enable Security Onion to sniff and monitor traffic effectively, other virtual machines must also use the Host-Only network. For example, Kali Linux should have two network interfaces—one on NAT (optional) and the other on Host-Only—while Metasploitable should be set to Host-Only.
 - IP Configurations:
-  - Security Onion: `192.168.253.10` on NAT 
-  - Kali Linux: `192.168.253.129` on NAT 
-  - Metasploitable: `192.168.253.128` on Host only
+  - Security Onion: `192.168.19.140` on NAT 
+  - Kali Linux: `192.168.128.19` on NAT, `192.168.189.130` on Host only
+  - Metasploitable: `192.168.189.129` on Host only
 - VMware Workstation Pro was used to host the virtual machines.
 
-## Key Features
-- Snort Rules for detecting specific attacks.
-- Bro/Zeek integration for network traffic analysis.
-- Kibana for visualizing intrusion alerts.
 
-## Results
-- Successfully detected and logged attacks such as:
-  - Brute Force (via Hydra).
-  - Remote Exploit (via Metasploit).
-  - Port Scanning (via Nmap).
+
+
+
+
 
 ## Conclusion
 This project demonstrated the effectiveness of Security Onion as a NIDS for monitoring and detecting intrusions in a simulated lab environment.
@@ -49,4 +44,3 @@ This project demonstrated the effectiveness of Security Onion as a NIDS for moni
 - [Security Onion Documentation](https://securityonion.net/docs/)
 - [Metasploit Basics](https://metasploit.help/)
 
----
