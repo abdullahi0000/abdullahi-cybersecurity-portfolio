@@ -15,6 +15,11 @@ In this project, I will set up a NIDS using **Security Onion** deployed in VMwar
 - **Kali Linux**: Attack simulation tools (e.g., Metasploit, Nmap).
 - **Metasploitable**: Vulnerable target machine.
 
+
+heres my network set up 
+![Network Diagram](https://github.com/abdullahi0000/abdullahi-cybersecurity-portfolio/blob/main/Drawing.png?raw=true)
+
+
 ## Project Setup
 - IP Configurations:
   - Security Onion: `192.168.253.10`
