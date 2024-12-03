@@ -33,7 +33,10 @@ Security Onion requires two network interfaces for proper setup: one for managem
 ![Kali Linux Screenshot 2](https://github.com/abdullahi0000/abdullahi-cybersecurity-portfolio/blob/main/kali-linux-2024.3-vmware-amd64-2024-12-02-16-29-02.png?raw=true)
 
 ## Testing/Attack
-1. Nmap port scanning- i've conducted nmap scan on the metasploitable vm from kali linux to generate alerts
+## Nmap Scanning 
+Experiment: i've perfomed a network scan using nmap to identify open ports and services on the metasploitable machine.
+
+Results: The Nmap scan successfully identified sveral open ports and services and security onion detected the scan activity and generated alerts.
 
 
    ![Kali Linux Screenshot 3](https://github.com/abdullahi0000/abdullahi-cybersecurity-portfolio/blob/main/kali-linux-2024.3-vmware-amd64-2024-12-02-16-49-04.png?raw=true)
@@ -42,7 +45,8 @@ Security Onion requires two network interfaces for proper setup: one for managem
 
 
 
-
+## Brute Force Attack
+Experiment: i've perfomed a brute force attack on an ftp service running on metasploitable using Hydra. 
 
 
 
