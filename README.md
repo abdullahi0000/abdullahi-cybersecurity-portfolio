@@ -11,12 +11,15 @@ I’m Abdullahi Abdinoor Mohamed, a cybersecurity student pursuing a Diploma in 
 
 To leverage my growing expertise in cybersecurity, including hands-on experience with network intrusion detection and industry certifications, to contribute as a Security Analyst. I aim to apply my problem-solving skills, analytical thinking, and dedication to continuous learning in tackling emerging security challenges and ensuring the protection of digital assets.
 
+## Portfolio 
+I have developed this cybersecurity portfolio to showcase my skills and expertise in the field, including those gained from my diploma in Information and Cybersecurity and the Google Professional Cybersecurity Certificate. This portfolio is a work in progress and will be continuously updated as I gain more hands-on experience and add new projects and skills.
+
 ## Skills
 
 
 | Projects                                       | Skills gained         |
 |-----------------------------------------------|----------------------------|
-| Detection Lab         | `threat detection`, `incident response`, `Network traffic analysis`, `log analysis`
+| Conducting a  Security audit         | `Security Assessment and Risk Analysis`, `Security Audit Planning`, `Vulnerability Identification`, `Compliance and Regulatory Knowledge`, `Threat Detection and Analysis`, `Reporting and Documentation`
 | Network Intrusion Detection System (NIDS) |   `Threat Detection and Monitoring`, `Log Analysis and Correlation`, `Incident Response`, `Vulnerability Assessment and Exploitation` |
 
 
