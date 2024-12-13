@@ -32,8 +32,3 @@ I have developed this cybersecurity portfolio to showcase my skills and expertis
 - Chronicle
 
 
-
-
-## Projects
-- Detection Lab
-- Network Intrusion detection System NIDS
