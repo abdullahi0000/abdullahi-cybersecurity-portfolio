@@ -21,7 +21,7 @@ I have developed this cybersecurity portfolio to showcase my skills and expertis
 |-----------------------------------------------|----------------------------|
 | Conducting a  Security audit         | `Security Assessment and Risk Analysis`, `Security Audit Planning`, `Vulnerability Identification`, `Compliance and Regulatory Knowledge`, `Threat Detection and Analysis`, `Reporting and Documentation`
 | Network Intrusion Detection System (NIDS)|   `Threat Detection and Monitoring`, `Log Analysis and Correlation`, `Incident Response`, `Vulnerability Assessment and Exploitation` |
-| Linux & SQL | `Database Querying`, `Table Management`, `Data Filtering and Validation`, `Cybersecurity-Specific SQL Use Cases`|
+| Linux & SQL | `Database Querying`, `Table Management`, `Data Filtering and Validation`, `Cybersecurity-Specific SQL Use Cases`, `Command-Line Proficiency`,`Bash`, `Linux System Administration`|
 
 
 ## Tools
