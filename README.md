@@ -17,12 +17,12 @@ I have developed this cybersecurity portfolio to showcase my skills and expertis
 ## Skills
 
 
-| Projects                                       | Skills gained         | Tools/Framework |
-|-----------------------------------------------|----------------------------|---|
-| Conducting a  Security audit         | `Security Assessment and Risk Analysis`, `Security Audit Planning`, `Vulnerability Identification`, `Compliance and Regulatory Knowledge`, `Threat Detection and Analysis`, `Reporting and Documentation`| NIST CSF|
-| Network Intrusion Detection System (NIDS)|   `Threat Detection and Monitoring`, `Log Analysis and Correlation`, `virtualization`, `Incident Response`, `Vulnerability Assessment and Exploitation` | Kali linux, Security Onion, Metasploitable, vmware workstation pro |
-| Linux & SQL | `Database Querying`, `Table Management`, `Data Filtering and Validation`, `Cybersecurity-Specific SQL Use Cases`, `Command-Line Proficiency`,`Bash`, `Linux System Administration`| MariaDB database, kali linux |
-| Log analysis and Incident response | `Log Analysis and Data Interpretation`, `Command-Line Proficiency` | Apache web server, ubuntu|
+| Projects                                       | Skills gained         |
+|-----------------------------------------------|----------------------------|
+| Conducting a  Security audit         | `Security Assessment and Risk Analysis`, `Security Audit Planning`, `Vulnerability Identification`, `Compliance and Regulatory Knowledge`, `Threat Detection and Analysis`, `Reporting and Documentation`| 
+| Network Intrusion Detection System (NIDS)|   `Threat Detection and Monitoring`, `Log Analysis and Correlation`, `virtualization`, `Incident Response`, `Vulnerability Assessment and Exploitation` | 
+| Linux & SQL | `Database Querying`, `Table Management`, `Data Filtering and Validation`, `Cybersecurity-Specific SQL Use Cases`, `Command-Line Proficiency`,`Bash`, `Linux System Administration`| 
+| Log analysis and Incident response | `Log Analysis and Data Interpretation`, `Command-Line Proficiency`|
 
 
 ## Tools
