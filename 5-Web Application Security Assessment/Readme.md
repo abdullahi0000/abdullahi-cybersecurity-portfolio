@@ -46,7 +46,6 @@ I am currently working on this project, and the deliverables (e.g., documentatio
 ## Contact  
 If you have any questions or suggestions regarding this project, feel free to contact me:  
 - **Email:** [abdullahi.mohamed3274@gmail.com](mailto:abdullahi.mohamed3274@gmail.com)  
-- **LinkedIn:** [Abdullahi Mohamed](https://www.linkedin.com/in/abdullahi-mohamed-6bab022b6)  
 
 ---
 
