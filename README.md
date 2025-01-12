@@ -33,4 +33,5 @@ I have developed this cybersecurity portfolio to showcase my skills and expertis
 - Splunk
 - Chronicle
 
-
+---
+ **Email:** [abdullahi.mohamed3274@gmail.com](mailto:abdullahi.mohamed3274@gmail.com)  
