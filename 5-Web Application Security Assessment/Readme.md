@@ -10,7 +10,7 @@ The primary goals of this project are:
 3. To demonstrate practical skills in web application security assessment and remediation.  
 
 ## Planned Activities  
-Below are the key tasks I will perform during this project:  
+Below are the key tasks I will perform during this project: 
 
 ### 1. OWASP Top 10 Vulnerabilities  
 - Identifying and mitigating vulnerabilities such as:  
