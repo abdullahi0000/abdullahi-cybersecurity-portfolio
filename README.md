@@ -4,7 +4,7 @@
 
 ## Professional Statement 
 
-I’m Abdullahi Abdinoor Mohamed, a cybersecurity student pursuing a Diploma in Information and Cybersecurity, set to graduate in January 2024. I am currently completing the Google Professional Cybersecurity Certificate and planning to earn CompTIA Security+ and CISSP certifications. I’ve worked on projects like setting up a Network Intrusion Detection System (NIDS) and am eager to take on more challenges. My goal is to become a Security Analyst, where I can leverage my analytical skills, problem-solving abilities, and passion for continuous learning to tackle emerging security threats.
+I’m Abdullahi Abdinoor Mohamed, a cybersecurity student pursuing a Diploma in Information and Cybersecurity, set to graduate in January 2025. I am currently completing the Google Professional Cybersecurity Certificate and planning to earn CompTIA Security+ and CISSP certifications. I’ve worked on projects like setting up a Network Intrusion Detection System (NIDS) and am eager to take on more challenges. My goal is to become a Security Analyst, where I can leverage my analytical skills, problem-solving abilities, and passion for continuous learning to tackle emerging security threats.
 
 ## Objective
 
